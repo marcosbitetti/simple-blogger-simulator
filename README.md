@@ -11,12 +11,16 @@ Simula um servidor do Blogger para agilizar o desenvolvimento de contaúdo misto
 # Modo de usar
 Simular um desktop com o endereço **http://localhost:8083**
 
-```python blogger_simulator.py desktop 8083
+
+```
+python blogger_simulator.py desktop 8083
 ```
 
 Simular um mobile com o endereço **http://localhost:8083**
 
-```python blogger_simulator.py mobile 8083
+
+```
+python blogger_simulator.py mobile 8083
 ```
 
 ### Enjoy
